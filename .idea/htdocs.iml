@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/stari htdoc/wordpress/wp-content/plugins/edd-fes/phpdox.phar/" />
+          <root url="phar://$MODULE_DIR$/stari htdoc/wordpress/wp-content/plugins/edd-fes/robo.phar/" />
+          <root url="phar://$MODULE_DIR$/stari htdoc/wordpress/wp-content/plugins/edd-fes/phploc.phar/" />
+          <root url="phar://$MODULE_DIR$/stari htdoc/wordpress/wp-content/plugins/edd-fes/jolici.phar/" />
+          <root url="phar://$MODULE_DIR$/stari htdoc/wordpress/wp-content/plugins/edd-fes/phpDocumentor.phar/" />
+          <root url="phar://$MODULE_DIR$/stari htdoc/wordpress/wp-content/plugins/edd-fes/phpunit.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/stari htdoc/wordpress/wp-content/plugins/edd-fes/phpdox.phar/" />
+          <root url="phar://$MODULE_DIR$/stari htdoc/wordpress/wp-content/plugins/edd-fes/robo.phar/" />
+          <root url="phar://$MODULE_DIR$/stari htdoc/wordpress/wp-content/plugins/edd-fes/phploc.phar/" />
+          <root url="phar://$MODULE_DIR$/stari htdoc/wordpress/wp-content/plugins/edd-fes/jolici.phar/" />
+          <root url="phar://$MODULE_DIR$/stari htdoc/wordpress/wp-content/plugins/edd-fes/phpDocumentor.phar/" />
+          <root url="phar://$MODULE_DIR$/stari htdoc/wordpress/wp-content/plugins/edd-fes/phpunit.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
